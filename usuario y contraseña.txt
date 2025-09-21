@@ -1,0 +1,5 @@
+usuario=admin
+contraseñe=123456
+
+usuraio=Ronald
+contraseña=Ronald27051998
